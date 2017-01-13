@@ -1,0 +1,14 @@
+element.style {
+}
+h1 {
+    color: black;
+    margin-left: 180px;
+    font-size: 60px;
+} 
+body {
+    font-family: 'Lora', serif;
+    font-size: 30px;
+    line-height: 1.4285;
+    color: grey;
+    background-color: white;
+}
